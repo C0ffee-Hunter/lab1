@@ -1,0 +1,4 @@
+﻿  demo_lab1.cpp
+C:\Users\Даниил\source\repos\lab1\lab1\List.h(141,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Даниил\source\repos\lab1\lab1\List.h(243,18): warning C4018: >=: несоответствие типов со знаком и без знака
+  demo_lab1.vcxproj -> C:\Users\Даниил\source\repos\lab1\Debug\demo_lab1.dll
